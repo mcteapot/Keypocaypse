@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E4928142-556A-A024-779F-230E2BDEEF36}") = "Keypocaypse", "Assembly-CSharp.csproj", "{D5DF412B-6CB9-2FF5-114E-3FFEC0266B1E}"
+EndProject
+Project("{E4928142-556A-A024-779F-230E2BDEEF36}") = "Keypocaypse", "Assembly-CSharp-Editor.csproj", "{EEDF0FB3-5FC6-8C24-EE00-6C78A264884F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DF412B-6CB9-2FF5-114E-3FFEC0266B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DF412B-6CB9-2FF5-114E-3FFEC0266B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DF412B-6CB9-2FF5-114E-3FFEC0266B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DF412B-6CB9-2FF5-114E-3FFEC0266B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDF0FB3-5FC6-8C24-EE00-6C78A264884F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDF0FB3-5FC6-8C24-EE00-6C78A264884F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDF0FB3-5FC6-8C24-EE00-6C78A264884F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDF0FB3-5FC6-8C24-EE00-6C78A264884F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
