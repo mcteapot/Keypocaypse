@@ -5,6 +5,9 @@ using MidiJack;
 public class MidiControlller : MonoBehaviour {
 
 	public bool _DebugKeyOn;
+	public AudioController _AudioController;
+
+	public DropSpawner _DropSpawnerHumv;
 
 	// Use this for initialization
 	void Start () {
@@ -37,7 +40,12 @@ public class MidiControlller : MonoBehaviour {
 	{
 		if(_DebugKeyOn)
 			Debug.Log("NoteOn: " + channel + "," + note + "," + velocity);
-		
+		_AudioController.PlayAudioKey(note);
+
+
+
+		_DropSpawnerHumv.dropPrefab();
+
 		switch (note)
 		{
 			case 53:

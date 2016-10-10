@@ -68,6 +68,7 @@
      <Compile Include="Assets\JMO Assets\WarFX\Scripts\WFX_LightFlicker.cs" />
      <Compile Include="Assets\JMO Assets\WarFX\Spawn System\CFX_SpawnSystem.cs" />
      <Compile Include="Assets\Keypocaypse\Scripts\AudioController.cs" />
+     <Compile Include="Assets\Keypocaypse\Scripts\DropSpawner.cs" />
      <Compile Include="Assets\Keypocaypse\Scripts\MidiControlller.cs" />
      <Compile Include="Assets\MidiJack Examples\Example CC\KnobIndicator.cs" />
      <Compile Include="Assets\MidiJack Examples\Example CC\KnobIndicatorGroup.cs" />

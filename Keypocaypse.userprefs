@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MidiJack/MidiMaster.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Keypocaypse/Scripts/AudioController.cs">
     <Files>
-      <File FileName="Assets/Keypocaypse/Scripts/MidiControlller.cs" Line="6" Column="29" />
-      <File FileName="Assets/MidiJack/MidiMaster.cs" Line="1" Column="2" />
+      <File FileName="Assets/Keypocaypse/Scripts/MidiControlller.cs" Line="107" Column="12" />
+      <File FileName="Assets/MidiJack/MidiMaster.cs" Line="29" Column="48" />
+      <File FileName="Assets/MidiJack Examples/Example Delegate/DelegateTester.cs" Line="35" Column="1" />
+      <File FileName="Assets/MidiJack/MidiDriver.cs" Line="106" Column="9" />
+      <File FileName="Assets/Keypocaypse/Scripts/AudioController.cs" Line="23" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
