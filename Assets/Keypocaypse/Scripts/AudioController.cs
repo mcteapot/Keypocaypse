@@ -10,7 +10,7 @@ public class AudioController : MonoBehaviour {
 
 	private AudioSource audio;
 	public List<AudioClip> _AudioShots = new List<AudioClip>();
-
+	public int maxKeys = 32;
 
 	// Use this for initialization
 	void Start () {
@@ -26,7 +26,7 @@ public class AudioController : MonoBehaviour {
 	{
 		int playKey = key - audioKeyOffest;
 		Debug.Log("AUDIO KEY IS " + playKey);
-		if(playKey <= 21){
+		if(playKey <= maxKeys){
 			audio.PlayOneShot(_AudioShots[playKey], 0.7F);
 		}
 
