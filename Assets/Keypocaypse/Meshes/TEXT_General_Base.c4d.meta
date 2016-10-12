@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: a85eb94d0080841f08cc1ac3d3464df4
+timeCreated: 1476310451
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Text_AMBIEN
+    100002: Text_DATA_PLAN
+    100004: Text_DECOLONIZATION
+    100006: //RootNode
+    100008: Text_GLUTEN_FREE
+    100010: Text_GRINDR
+    100012: Text_HARAMBE
+    100014: Text_JUCE_CLEANSE
+    100016: Text_NETWORKING
+    100018: Text_ORGANIC
+    100020: Text_PLATFORM
+    100022: Text_SUSTAINABILITY
+    100024: Text_TRUVADA
+    100026: Text_VR
+    100028: Text_WYD
+    400000: Text_AMBIEN
+    400002: Text_DATA_PLAN
+    400004: Text_DECOLONIZATION
+    400006: //RootNode
+    400008: Text_GLUTEN_FREE
+    400010: Text_GRINDR
+    400012: Text_HARAMBE
+    400014: Text_JUCE_CLEANSE
+    400016: Text_NETWORKING
+    400018: Text_ORGANIC
+    400020: Text_PLATFORM
+    400022: Text_SUSTAINABILITY
+    400024: Text_TRUVADA
+    400026: Text_VR
+    400028: Text_WYD
+    2300000: Text_AMBIEN
+    2300002: Text_DATA_PLAN
+    2300004: Text_DECOLONIZATION
+    2300006: Text_GLUTEN_FREE
+    2300008: Text_GRINDR
+    2300010: Text_HARAMBE
+    2300012: Text_JUCE_CLEANSE
+    2300014: Text_NETWORKING
+    2300016: Text_ORGANIC
+    2300018: Text_PLATFORM
+    2300020: Text_SUSTAINABILITY
+    2300022: Text_TRUVADA
+    2300024: Text_VR
+    2300026: Text_WYD
+    3300000: Text_AMBIEN
+    3300002: Text_DATA_PLAN
+    3300004: Text_DECOLONIZATION
+    3300006: Text_GLUTEN_FREE
+    3300008: Text_GRINDR
+    3300010: Text_HARAMBE
+    3300012: Text_JUCE_CLEANSE
+    3300014: Text_NETWORKING
+    3300016: Text_ORGANIC
+    3300018: Text_PLATFORM
+    3300020: Text_SUSTAINABILITY
+    3300022: Text_TRUVADA
+    3300024: Text_VR
+    3300026: Text_WYD
+    4300000: Text_WYD
+    4300002: Text_DECOLONIZATION
+    4300004: Text_DATA_PLAN
+    4300006: Text_GRINDR
+    4300008: Text_VR
+    4300010: Text_PLATFORM
+    4300012: Text_AMBIEN
+    4300014: Text_JUCE_CLEANSE
+    4300016: Text_TRUVADA
+    4300018: Text_NETWORKING
+    4300020: Text_HARAMBE
+    4300022: Text_GLUTEN_FREE
+    4300024: Text_SUSTAINABILITY
+    4300026: Text_ORGANIC
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
