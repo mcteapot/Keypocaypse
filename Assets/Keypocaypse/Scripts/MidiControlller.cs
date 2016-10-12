@@ -9,6 +9,8 @@ public class MidiControlller : MonoBehaviour {
 
 	public DropSpawner _DropSpawnerHumv;
 
+	public UIController _UIController;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -42,7 +44,7 @@ public class MidiControlller : MonoBehaviour {
 			Debug.Log("NoteOn: " + channel + "," + note + "," + velocity);
 		_AudioController.PlayAudioKey(note);
 
-
+		_UIController.SetDialogText();
 
 		_DropSpawnerHumv.dropPrefab();
 

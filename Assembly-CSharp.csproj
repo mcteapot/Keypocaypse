@@ -71,6 +71,8 @@
      <Compile Include="Assets\Keypocaypse\Scripts\DaddyTextController.cs" />
      <Compile Include="Assets\Keypocaypse\Scripts\DropSpawner.cs" />
      <Compile Include="Assets\Keypocaypse\Scripts\MidiControlller.cs" />
+     <Compile Include="Assets\Keypocaypse\Scripts\SystemsController.cs" />
+     <Compile Include="Assets\Keypocaypse\Scripts\UIController.cs" />
      <Compile Include="Assets\MidiJack Examples\Example CC\KnobIndicator.cs" />
      <Compile Include="Assets\MidiJack Examples\Example CC\KnobIndicatorGroup.cs" />
      <Compile Include="Assets\MidiJack Examples\Example Delegate\DelegateTester.cs" />
