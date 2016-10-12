@@ -17,6 +17,7 @@ public class DropSpawner : MonoBehaviour {
 
 	public void dropPrefab()
 	{
+		Debug.Log("HI THERE ARE TYOU WORKING");
 		Instantiate(_DropPrefab, transform.position, transform.rotation);
 	}
 }

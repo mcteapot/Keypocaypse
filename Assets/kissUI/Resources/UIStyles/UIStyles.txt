@@ -1,0 +1,9 @@
+MacOSX^MacOSX Back^Windows7^Windows7 Back|^UIStyles.txt
+	Window|
+		|Client Area.asset^Close X.asset^Close.asset^Col Bar.asset^Col Center.asset^Col Left.asset^Col Right.asset^Dialog A.asset^Dropshadow.asset^Move Win.asset^Rows M.asset^Size B.asset^Size BL.asset^Size BR.asset^Size L.asset^Size R.asset^Size T.asset^Size TL.asset^Size TR.asset^Title.asset
+	Window|
+		|Client Area.asset^Close X.asset^Close.asset^Col Bar.asset^Col Left.asset^Col Right.asset^Dialog A.asset^Dropshadow.asset^Move Win.asset^Size B.asset^Size BL.asset^Size BR.asset^Size L.asset^Size R.asset^Size T.asset^Size TL.asset^Size TR.asset^Title.asset^test 1.asset
+	Window|
+		|Client Area.asset^Close X.asset^Close.asset^Col Bar.asset^Col Center.asset^Col Left.asset^Col Right.asset^Dropshadow.asset^Move Win.asset^Rows M.asset^Size B.asset^Size BL.asset^Size BR.asset^Size L.asset^Size R.asset^Size T.asset^Size TL.asset^Size TR.asset^Title.asset
+	Window|
+		|Close X.asset^Close.asset^Col Bar.asset^Col Left.asset^Col Right.asset^Dropshadow.asset^Move Win.asset^Size B.asset^Size BL.asset^Size BR.asset^Size L.asset^Size R.asset^Size T.asset^Size TL.asset^Size TR.asset^Title.asset^test 1.asset

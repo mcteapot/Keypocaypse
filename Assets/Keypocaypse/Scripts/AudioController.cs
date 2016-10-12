@@ -25,7 +25,7 @@ public class AudioController : MonoBehaviour {
 	public void PlayAudioKey(int key)
 	{
 		int playKey = key - audioKeyOffest;
-		Debug.Log("AUDIO KEY IS " + playKey);
+		//Debug.Log("AUDIO KEY IS " + playKey);
 		if(playKey <= maxKeys){
 			audio.PlayOneShot(_AudioShots[playKey], 0.7F);
 		}
