@@ -47,10 +47,10 @@ public class DaddyTextController : MonoBehaviour {
 
 	private IEnumerator resetText(float waitTime) {
 		isTextResetting = true;
-		print("WaitTime " + waitTime);
+		//print("WaitTime " + waitTime);
 		yield return new WaitForSeconds(waitTime);
 		//print("WaitAndPrint " + Time.time);
-		Debug.Log("POSITON RESET");
+		//Debug.Log("POSITON RESET");
 		int i = 0;
 		foreach(Transform textPos in textPositions)
 		{
