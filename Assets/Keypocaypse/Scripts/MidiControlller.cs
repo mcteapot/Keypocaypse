@@ -7,9 +7,11 @@ public class MidiControlller : MonoBehaviour {
 	public bool _DebugKeyOn;
 	public AudioController _AudioController;
 
-	public DropSpawner _DropSpawnerHumv;
+	public DropSpawner[] _DropSpawners;
 
 	public UIController _UIController;
+
+	public int keyOffset = 53;
 
 	// Use this for initialization
 	void Start () {
@@ -36,6 +38,18 @@ public class MidiControlller : MonoBehaviour {
 		MidiMaster.knobDelegate -= Knob;
 	}
 
+	public void DropObject(int note)
+	{
+		int dropNuber = note - keyOffset;
+		Debug.Log("DROPPING: NOTE " + note);
+		Debug.Log("DROPPING: Number " + dropNuber);
+
+		if(dropNuber <= _DropSpawners.Length)
+		{
+			_DropSpawners[dropNuber].dropPrefab();	
+		}
+
+	}
 
 	// Deligage functions
 	void NoteOn(MidiChannel channel, int note, float velocity)
@@ -46,7 +60,7 @@ public class MidiControlller : MonoBehaviour {
 
 		_UIController.SetDialogText();
 
-		_DropSpawnerHumv.dropPrefab();
+		DropObject(note);
 
 		switch (note)
 		{
