@@ -1,13 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Keypocaypse/Scripts/MidiControlller.cs">
     <Files>
-      <File FileName="Assets/Keypocaypse/Scripts/MidiControlller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Keypocaypse/Scripts/MidiControlller.cs" Line="48" Column="4" />
       <File FileName="Assets/MidiJack/MidiMaster.cs" Line="1" Column="1" />
       <File FileName="Assets/MidiJack Examples/Example Delegate/DelegateTester.cs" Line="1" Column="1" />
       <File FileName="Assets/MidiJack/MidiDriver.cs" Line="1" Column="1" />
       <File FileName="Assets/Keypocaypse/Scripts/AudioController.cs" Line="1" Column="1" />
-      <File FileName="Assets/Keypocaypse/Scripts/DropSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Keypocaypse/Scripts/DropSpawner.cs" Line="32" Column="5" />
+      <File FileName="Assets/Keypocaypse/Scripts/DaddyTextController.cs" Line="50" Column="5" />
+      <File FileName="Assets/Keypocaypse/Scripts/DropDestroyer.cs" Line="20" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
