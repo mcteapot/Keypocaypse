@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 520e7eedb39fc45e2adb5a1d4eac1ab8
+timeCreated: 1507495130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Text_APPROPRIATION
+    100002: Text_BERLIN
+    100004: Text_CARBS
+    100006: Text_CHIA_SEEDS
+    100008: Text_COWBOY
+    100010: Text_CUCK
+    100012: Text_DOCKING
+    100014: Text_FACE_RECOGNITION
+    100016: Text_GENDER_BINARY
+    100018: //RootNode
+    100020: Text_HEMP_MILK
+    100022: Text_HOT_YOGA
+    100024: Text_KEGSTAND
+    100026: Text_PORTRAIT_MODE
+    100028: Text_SOFT_BOY
+    100030: Text_STICKY
+    100032: Text_TERROR
+    100034: Text_WHITEWASHING
+    100036: Text_YASSSSSSSSS
+    400000: Text_APPROPRIATION
+    400002: Text_BERLIN
+    400004: Text_CARBS
+    400006: Text_CHIA_SEEDS
+    400008: Text_COWBOY
+    400010: Text_CUCK
+    400012: Text_DOCKING
+    400014: Text_FACE_RECOGNITION
+    400016: Text_GENDER_BINARY
+    400018: //RootNode
+    400020: Text_HEMP_MILK
+    400022: Text_HOT_YOGA
+    400024: Text_KEGSTAND
+    400026: Text_PORTRAIT_MODE
+    400028: Text_SOFT_BOY
+    400030: Text_STICKY
+    400032: Text_TERROR
+    400034: Text_WHITEWASHING
+    400036: Text_YASSSSSSSSS
+    2300000: Text_APPROPRIATION
+    2300002: Text_BERLIN
+    2300004: Text_CARBS
+    2300006: Text_CHIA_SEEDS
+    2300008: Text_COWBOY
+    2300010: Text_CUCK
+    2300012: Text_DOCKING
+    2300014: Text_FACE_RECOGNITION
+    2300016: Text_GENDER_BINARY
+    2300018: Text_HEMP_MILK
+    2300020: Text_HOT_YOGA
+    2300022: Text_KEGSTAND
+    2300024: Text_PORTRAIT_MODE
+    2300026: Text_SOFT_BOY
+    2300028: Text_STICKY
+    2300030: Text_TERROR
+    2300032: Text_WHITEWASHING
+    2300034: Text_YASSSSSSSSS
+    3300000: Text_APPROPRIATION
+    3300002: Text_BERLIN
+    3300004: Text_CARBS
+    3300006: Text_CHIA_SEEDS
+    3300008: Text_COWBOY
+    3300010: Text_CUCK
+    3300012: Text_DOCKING
+    3300014: Text_FACE_RECOGNITION
+    3300016: Text_GENDER_BINARY
+    3300018: Text_HEMP_MILK
+    3300020: Text_HOT_YOGA
+    3300022: Text_KEGSTAND
+    3300024: Text_PORTRAIT_MODE
+    3300026: Text_SOFT_BOY
+    3300028: Text_STICKY
+    3300030: Text_TERROR
+    3300032: Text_WHITEWASHING
+    3300034: Text_YASSSSSSSSS
+    4300000: Text_YASSSSSSSSS
+    4300002: Text_APPROPRIATION
+    4300004: Text_STICKY
+    4300006: Text_WHITEWASHING
+    4300008: Text_TERROR
+    4300010: Text_CUCK
+    4300012: Text_SOFT_BOY
+    4300014: Text_GENDER_BINARY
+    4300016: Text_PORTRAIT_MODE
+    4300018: Text_HEMP_MILK
+    4300020: Text_FACE_RECOGNITION
+    4300022: Text_KEGSTAND
+    4300024: Text_HOT_YOGA
+    4300026: Text_DOCKING
+    4300028: Text_BERLIN
+    4300030: Text_COWBOY
+    4300032: Text_CARBS
+    4300034: Text_CHIA_SEEDS
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

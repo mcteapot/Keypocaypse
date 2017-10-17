@@ -22,9 +22,16 @@ public class AudioController : MonoBehaviour {
 	
 	}
 
-	public void PlayAudioKey(int key)
+	public void PlayAudioKey(int note, bool midiDrop)
 	{
-		int playKey = key - audioKeyOffest;
+		int playKey = 0;
+
+		if(midiDrop) {
+			playKey = note - audioKeyOffest;
+		} else {
+			playKey = note;
+		}
+			
 		//Debug.Log("AUDIO KEY IS " + playKey);
 		if(playKey <= maxKeys){
 			audio.PlayOneShot(_AudioShots[playKey], 0.7F);
